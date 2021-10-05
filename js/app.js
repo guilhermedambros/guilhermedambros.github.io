@@ -8,7 +8,8 @@ window.addEventListener('load', (event) => {
         lang = userLang;
     }
     if(languages[lang] == null){
-        alert("Linguagem não suportada. Tente 'en' ou 'ptbr'");
+        alert("Linguagem não encontrada. Utilizando 'ptbr'... ");
+        window.location.href = "https://guilhermedambros.github.io/?lang=ptbr";
     }else{
         setResume(lang.replace('-', '').toLowerCase())
     }
@@ -18,7 +19,11 @@ window.addEventListener('load', (event) => {
 
 
 function setResume(lang){
-    clear();    
+    clear();     
+    if(lang == 'en'){
+        let link = document.getElementById("linkedin");
+        link.setAttribute('href', "https://www.linkedin.com/in/guilherme-dambros/?locale=en_US");
+    }    
     document.getElementById('current_position').innerHTML = languages[lang].resume.current_position;
     document.getElementById('cover_letter_title').innerHTML = languages[lang].resume.cover_letter.title;
     document.getElementById('education_title').innerHTML = languages[lang].resume.education.title;

@@ -110,7 +110,7 @@ const languages = {
                         ]
                     },
                     {
-                        institution_name: 'RG VIsual Code',
+                        institution_name: 'RG Visual Code',
                         local: 'Guaporé, RS',
                         position_name: 'Sócio/Desenvolvedor',
                         between: 'Ago 2013 - Ago 2014',
@@ -232,7 +232,7 @@ const languages = {
                         ]
                     },
                     {
-                        institution_name: 'RG VIsual Code',
+                        institution_name: 'RG Visual Code',
                         local: 'Guaporé, RS',
                         position_name: 'Member/Web Developer',
                         between: 'Ago 2013 - Ago 2014',
