@@ -32,6 +32,12 @@ const languages = {
                 title: 'EDUCAÇÃO',
                 items: [
                     {
+                        year: '2021',
+                        institution_name: 'alura',
+                        course_name: 'JAVA E ORIENTAÇÃO A OBJETOS',
+                        city: 'Online'
+                    },
+                    {
                         year: '2018',
                         institution_name: 'SCRUM study',
                         course_name: 'SCRUM FUNDAMENTALS CERTIFIED',
@@ -153,6 +159,12 @@ const languages = {
             education: {
                 title: 'EDUCATION',
                 items: [
+                    {
+                        year: '2021',
+                        institution_name: 'alura',
+                        course_name: 'JAVA AND OBJECTS ORIENTATION',
+                        city: 'Online'
+                    },
                     {
                         year: '2018',
                         institution_name: 'SCRUM study',
