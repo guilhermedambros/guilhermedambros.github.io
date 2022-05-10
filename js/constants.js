@@ -73,9 +73,12 @@ const languages = {
                         tasks: [
                             'Análise de requisitos.', 
                             'Análise e gerenciamento de demandas.',
-                            'SCRUM events',
+                            'Eventos SCRUM, Azure DevOps, Jenkins, Redmine',
                             'API REST',
-                            'PHP5.3, PHP5.6, PHP7, PGSQL, CENTOS7, HTML, Javascript, Symfony, Laravel, TFS, Redmine, ReactJS',
+                            'Laravel, Spring, Symfony',
+                            'PHP5.4, PHP5.6, PHP7, JAVA, HTML, Javascript, ReactJS',
+                            'Oracle, PostgreSQL, SQL SERVER',
+                            'CENTOS7'
                         ]
                     },
                     {
@@ -199,9 +202,12 @@ const languages = {
                         tasks: [
                             'Requirements Analysis.', 
                             'Demand analysis and management.',
-                            'SCRUM events',
+                            'SCRUM events, Azure DevOps, Jenkins, Redmine',
                             'API REST',
-                            'PHP5.3, PHP5.6, PHP7, PGSQL, CENTOS7, HTML, Javascript, Symfony, Laravel, TFS, Redmine, ReactJS',
+                            'Laravel, Spring, Symfony',
+                            'PHP5.4, PHP5.6, PHP7, JAVA, HTML, Javascript, ReactJS',
+                            'Oracle, PostgreSQL, SQL SERVER',
+                            'CENTOS7'
                         ]
                     },
                     {
@@ -212,7 +218,7 @@ const languages = {
                         tasks: [
                             'Team of 10 employees.',
                             'More than 50 systems (PHP, Java, VB, Flutter, Ionic, Senior.)',
-                            'Database Management MSSQL e MYSQL.',
+                            'Database Management SQL SERVER e MYSQL.',
                             'Implementation of versioning via GIT between development, stagging and production servers. With GITLAB.',
                             'Web development deployment with LARAVEL, NPM e NODEJS.',
                             'Migration of 30 PHP5.3 systems to PHP5.6 on a new Centos7 server structure.',
