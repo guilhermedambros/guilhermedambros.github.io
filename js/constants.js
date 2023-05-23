@@ -145,7 +145,7 @@ const languages = {
         icon : '',
         title : 'English (EUA)',
         resume : {
-            current_position: 'Computer Analyst',
+            current_position: 'Java Software Engineer',
             cover_letter: {
                 title: 'COVER LETTER',
                 description: {
