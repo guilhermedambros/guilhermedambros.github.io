@@ -63,6 +63,8 @@ function newEducationRow(element, index, array) {
     let h4 = document.createElement("h4");
     div_parent.classList.add("row");
     div_parent.classList.add("education-row");
+    div_parent.classList.add("border-bottom");
+    div_parent.classList.add("border-light");
     div_child.classList.add("col-md-4");
     div_child.classList.add("col-sm-12");
     div_child.classList.add("col-xs-12");
@@ -101,6 +103,8 @@ function newCareerRow(element, index, array) {
     let h4 = document.createElement("h4");
     div_parent.classList.add("row");
     div_parent.classList.add("career-row");
+    div_parent.classList.add("border-bottom");
+    div_parent.classList.add("border-light");
     div_child.classList.add("col-md-3");
     div_child.classList.add("col-sm-12");
     div_child.classList.add("col-xs-12");
