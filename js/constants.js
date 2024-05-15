@@ -16,7 +16,7 @@ const languages = {
         icon : '',
         title : 'Português (BR)',
         resume : {
-            current_position: 'Analista de Computação',
+            current_position: 'Engenheiro de software',
             cover_letter: {
                 title: 'APRESENTAÇÃO',
                 description: {
@@ -29,6 +29,18 @@ const languages = {
             education: {
                 title: 'EDUCAÇÃO',
                 items: [
+                    {
+                        year: 'Em andamento',
+                        institution_name: 'USP Esalq',
+                        course_name: 'MBA em Engenharia de Software',
+                        city: 'Online'
+                    },
+                    {
+                        year: 'Em andamento',
+                        institution_name: 'CCAA (Nível 5)',
+                        course_name: 'Inglês para adultos',
+                        city: 'Guaporé/RS'
+                    },
                     {
                         year: '2021',
                         institution_name: 'alura',
@@ -45,7 +57,7 @@ const languages = {
                         year: '2016',
                         institution_name: 'Universidade de Passo Fundo',
                         course_name: 'MBA em Gestão e Governança de TI',
-                        city: 'Passo Fundo'
+                        city: 'Passo Fundo/RS'
                     },
                     {
                         year: '2016',
@@ -57,7 +69,7 @@ const languages = {
                         year: '2012',
                         institution_name: 'Universidade de Passo Fundo',
                         course_name: 'Tecnologia em Análise e Desenvolvimento de Sistemas',
-                        city: 'Passo Fundo'
+                        city: 'Passo Fundo/RS'
                     }
 
                 ]
@@ -68,7 +80,7 @@ const languages = {
                     {
                         institution_name: 'PROCERGS',
                         local: 'Porto Alegre, RS',
-                        position_name: 'Analista de computação',
+                        position_name: 'Engenheiro de Software',
                         between: 'Jun 2021 - Atual',
                         tasks: [
                             'Análise de requisitos.', 
@@ -159,6 +171,18 @@ const languages = {
                 title: 'EDUCATION',
                 items: [
                     {
+                        year: 'In Progress',
+                        institution_name: 'USP Esalq',
+                        course_name: 'MBA - Software Engineering',
+                        city: 'Online'
+                    },
+                    {
+                        year: 'In Progress',
+                        institution_name: 'CCAA',
+                        course_name: 'English (Level 5)',
+                        city: 'Guaporé/RS'
+                    },
+                    {
                         year: '2021',
                         institution_name: 'alura',
                         course_name: 'JAVA AND OBJECTS ORIENTATION',
@@ -197,7 +221,7 @@ const languages = {
                     {
                         institution_name: 'PROCERGS',
                         local: 'Porto Alegre, RS',
-                        position_name: 'Computer Analyst',
+                        position_name: 'JAVA Software Engineer',
                         between: 'Jun 2021 - Atual',
                         tasks: [
                             'Requirements Analysis.', 
