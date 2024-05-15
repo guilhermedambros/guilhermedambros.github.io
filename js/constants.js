@@ -157,7 +157,7 @@ const languages = {
         icon : '',
         title : 'English (EUA)',
         resume : {
-            current_position: 'Java Software Engineer',
+            current_position: 'Software Engineer',
             cover_letter: {
                 title: 'COVER LETTER',
                 description: {
@@ -221,7 +221,7 @@ const languages = {
                     {
                         institution_name: 'PROCERGS',
                         local: 'Porto Alegre, RS',
-                        position_name: 'JAVA Software Engineer',
+                        position_name: 'Software Engineer',
                         between: 'Jun 2021 - Atual',
                         tasks: [
                             'Requirements Analysis.', 
